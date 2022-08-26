@@ -1,0 +1,186 @@
+
+.class1{
+    background-color: darkseagreen;
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin: 30px;
+   
+   
+}
+.class2{
+    background-color: blueviolet;
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+   
+}
+.class3{
+    background-color: rosybrown;
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+   
+   
+}
+.class4{
+    background-image: linear-gradient(white, skyblue);
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+   
+   
+}
+.class5{
+    background-image: repeating-linear-gradient(seagreen, yellow 10%, green 20%);
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin: 30px;
+    
+}
+.class6{
+    background-image: radial-gradient( red 30%, green 30% 80%);
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin: 30px;
+    
+}
+.class7{
+    background-image: repeating-radial-gradient(skyblue, blue 10%, gray 15%);
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin: 30px;
+    
+}
+.class8{
+    background-image: linear-gradient( rgba(239,220,220,0.51),rgba(214,185,185,0.76)),url(back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin: 30px;
+    
+}
+ 
+.class10{
+    background-image: conic-gradient(red, navy);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin: 30px;
+    
+}
+.a{
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin: 30px;
+    border-radius: 30px;
+    background-image: conic-gradient(#C21E56);
+}
+.b{
+   border: 1px solid black;
+    height: 170px;
+    width: 170px;
+    float: left;
+    margin: 14px;
+    border-radius: 20px;
+}
+.c{
+    border: 1px solid black;
+    height: 150px;
+    width: 150px;
+    float: left;
+    margin: 10px 10px 7px 7px;
+    border-radius: 20px; 
+}
+.d{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin: 30px 30px;
+    border-radius: 50%; 
+}
+.e{
+    border: 1px solid black;
+    height: 30px;
+    width: 30px;
+    float: left;
+    margin: 6px -50px;
+    border-radius: 60%; 
+}
+.f{
+    border: 1px solid black;
+    height: 80px;
+    width: 80px;
+    float: left;
+    margin: 8px 8px;
+    border-radius: 50%; 
+}
+.a{
+    background-image: conic-gradient(#FF1493,#E9AB17);
+    
+    
+
+}
+.b{
+    background-color:white;
+}
+.c{
+    background-image: conic-gradient(#FF1493,#E9AB17);
+
+}
+.d{
+    background-color:white;
+}
+.e{
+    background-color:white;
+}
+.f{
+    
+    
+    background-image: conic-gradient(#FF1493,#E9AB17);
+}
+.class9{
+    background-image: linear-gradient(#6F4E37,#F67280);
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin: 30px;
+}
+.class9:hover{
+    transform: scale(2);
+    transition: 2s;
+    
+}
+.p{
+    text-align: center;
+}
+
+.class11{
+    background-image: radial-gradient(#8B8000,#ADFF2F);
+    
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin: 30px;
+}
+.class11:hover{
+    transform: translate(40px,40px);
+    transition: 5s;
+    
+}
